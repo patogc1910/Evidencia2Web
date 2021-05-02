@@ -1,0 +1,106 @@
+h1{
+    margin: 0%;
+    padding-top: 4%;
+    padding-bottom: 1%;
+    background-color: lightskyblue;
+    font-size: 2.9em;
+    text-align: center;
+}
+
+#MenuProducto{
+    text-align: center;
+    margin: 0%;
+    padding: 0.4%;
+    background-color: lightskyblue;
+    list-style: none;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-grow: wrap;
+    height: 38px;
+}
+
+#MenuProducto a{
+    color: blueviolet;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+header nav a:link, header nav a:visited {
+    background-color: pink;
+    border: 9px inset pink;
+    outline: 3px inset pink;
+}
+
+
+table{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+th{
+    color: blueviolet;
+    font-size: 1.3em;
+}
+
+td{
+    color: crimson;
+    text-align:justify;
+    font-size: 1.3em;
+    font-weight: bolder;
+}
+
+#x2, #x3, #x4, #x5, #x6{
+    text-align: center;
+}
+
+img{
+    width: 70%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+img:hover{
+    outline: 20px solid blue;
+}
+
+h3, h4, h5{
+    text-align:start;
+    color:purple;
+    font-size: 2.2em;
+}
+
+h2{
+    text-align: center;
+    font-size: 2.7em;
+    color: teal;
+}
+
+label{
+    color: red;
+    font-size: 1.6em;
+}
+
+h6{
+    color: brown;
+    text-align: center;
+    font-size: 2.0em;
+}
+
+dt{
+    color: tomato;
+    font-size: 2.3em;
+}
+
+dd{
+    color:darkslateblue;
+    text-align: justify;
+    font-size: 1.5em;
+}

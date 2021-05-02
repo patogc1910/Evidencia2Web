@@ -1,0 +1,122 @@
+#noticias{
+    margin: 0%;
+    padding: 3.5%;
+    text-align: center;
+    background-color: red;
+    font-size: 2.4em;
+}
+
+#MenuNoticias{
+    text-align: center;
+    margin: 0%;
+    padding: 1.4%;
+    background-color: red;
+    list-style:none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-grow: wrap;
+    height: 30px;
+}
+
+* {
+    margin: 0%;
+    padding: 0%;
+    border: 10px;
+    box-sizing: border-box;
+}
+
+
+#MenuNoticias a{
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+header nav a:link, header nav a:visited {
+    background-color: white;
+    border: 8px inset white;
+    outline: 2px inset white;
+}
+
+
+#textonoticia1{
+    margin: 1%;
+    text-align:justify;
+    color: darkblue;
+    font-size: 1.8em;
+}
+
+#noticia1{
+    margin: 1%;
+    width: 900px;
+}
+
+
+
+#noticia2{
+    width: 60%;
+    margin: 1%;
+}
+
+p{
+    margin: 1%;
+}
+
+#noticia3{
+    margin: 1%;
+}
+
+h2, h3, h4{
+    margin: 1%;
+}
+
+h2{
+    color: darkblue;
+    font-size: 1.9em;
+}
+
+h3{
+    color: darkblue;
+    font-size: 1.9em;
+}
+
+h4{
+    color: black;
+    font-size: 1.9em;
+    text-align: center;
+}
+
+main{
+    background: white;
+}
+
+#direcciones{
+    margin: 1%;
+    list-style: none;
+    color: black;
+    font-size: 1.5em;
+    font-weight: lighter;
+    background: white;
+    text-align: center;
+}
+
+
+a{
+    color: darkblue;
+    font-weight: bolder;
+    font-size: 1.9em;
+    margin:1%;
+}
+
+li{
+    color: darkblue;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+
+
+
+
